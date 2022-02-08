@@ -1,0 +1,14 @@
+body {
+    border-top: 3px solid red;
+}
+.ht-nav {
+    padding-top: 30px;
+}
+.ht-nav-2 {
+    padding-left: 12px;
+    padding-right: 12px;
+    color: #2D2D2D;
+}
+.ht-nav-item {
+    color: #2D2D2D;
+}
